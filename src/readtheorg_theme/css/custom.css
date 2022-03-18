@@ -1,3 +1,12 @@
-.outline-2 {
-  margin: 50px 0;
+.title {
+  text-align: center!important;
 }
+
+.outline-2 {
+  margin: 100px 0;
+}
+
+.outline-2 h2, .outline-3 {
+  margin-bottom: 30px;
+}
+
